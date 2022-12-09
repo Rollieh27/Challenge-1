@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*------------ Header Below----------- */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,7 +15,7 @@ body {
     color: #ffffff;
     background-size: cover;
     position: sticky;
-    width: 100%;
+    width: 100%; 
 }
 
 .header h1 {
@@ -43,7 +43,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* ----------Block & Inline Elements----------*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -52,7 +52,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* -------------Main section image------------ */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,7 +61,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* --------Float Elements------------- */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -72,12 +72,6 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-    justify-self: flex-start;
-}
 /* ---------Aside Content Below---------- */
 .benefits {
     margin-right: 20px;
@@ -139,6 +133,13 @@ p {
     max-width: 150px;
 }
 /* --------- Main content Below --------- */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+    justify-self: flex-start;
+}
+
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
