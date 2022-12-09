@@ -1,2 +1,2 @@
 # Challenge-1
-<p>checking for update>
+<p>Correcting errors in html & css </p>
