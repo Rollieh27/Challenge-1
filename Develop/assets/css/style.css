@@ -82,7 +82,7 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    justify-self: flex-start;
+    
 }
 
 .benefit-lead {
@@ -137,7 +137,6 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-    justify-self: flex-start;
 }
 
 #search-engine-optimization {
